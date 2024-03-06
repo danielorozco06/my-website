@@ -10,7 +10,7 @@ const projectName = "my-website";
 
 const config: Config = {
   title: "My Site",
-  tagline: "Dinosaurs are cool",
+  tagline: "Dinosaurs are cool - 1",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
